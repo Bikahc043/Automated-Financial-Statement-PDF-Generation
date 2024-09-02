@@ -1,1 +1,1 @@
-# -Automated-Financial-Statement-PDF-Generation
+# Automated-Financial-Statement-PDF-Generation
